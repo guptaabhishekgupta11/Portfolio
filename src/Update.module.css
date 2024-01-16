@@ -1,0 +1,69 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+  
+  .container {
+    max-width: 400px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    
+  }
+  
+  label {
+    margin-bottom: 8px;
+  }
+  
+  input {
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 350px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #00b380;
+  }
+  
+ .user{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+ }
+ .email{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+ }
+ .phone{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+ .password{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+  

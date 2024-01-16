@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "id": "ea7a",
+      "name": "avik kumar",
+      "email": "abhishek8984609721@gmail.com",
+      "phone": "09861163734",
+      "password": "123489"
+    },
+    {
+      "id": "c68f",
+      "name": "Abhishek Kumar Gupta",
+      "email": "abhishek10gupta7@gmail.com",
+      "phone": "07749032471",
+      "password": "1234"
+    },
+    {
+      "id": "f0ca",
+      "name": "kartik",
+      "email": "kartik@gmail.com",
+      "phone": "8903547",
+      "password": "12"
+    },
+    {
+      "id": "8db1",
+      "name": "Gaurav",
+      "email": "gaurav123@gmail.com",
+      "phone": "56790",
+      "password": "3456"
+    },
+    {
+      "id": "6451",
+      "name": "Abhi",
+      "email": "abhi@123",
+      "phone": "09861163734",
+      "password": "12345"
+    },
+    {
+      "id": "53e6",
+      "name": "avik kumar",
+      "email": "abhishek8984609721@gmail.com",
+      "phone": "09861163734",
+      "password": "123"
+    },
+    {
+      "id": "9516",
+      "name": "qwerr",
+      "email": "19btcse02@suiit.ac.in",
+      "phone": "07749032471",
+      "password": "890"
+    },
+    {
+      "id": "9877",
+      "name": "tyu",
+      "email": "19btcse02@suiit.ac.in",
+      "phone": "07749032471",
+      "password": "09067889"
+    }
+  ]
+}
